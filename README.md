@@ -7,15 +7,15 @@ If an idea pops into my head, chances are I’ll try to code it and ship it.
 
 My current tech stack includes **Python**, **HTML/CSS**, **JavaScript**, and I’m diving deep into frameworks like **Flask**, **Django**, and **React**.
 
-🛠️ Technologies I Use
+🛠️ Technologies I Use:
 
-Languages: Python, JavaScript
+*Languages: Python, JavaScript
 
-Web: HTML, CSS, Flask, Django
+*Web: HTML, CSS, Flask, Django
 
-ML: NumPy, Pandas, Scikit-learn
+*ML: NumPy, Pandas, Scikit-learn
 
-Tools: Git, GitHub, VS Code
+*Tools: Git, GitHub, VS Code
 
 I’m still learning, improving, and building one project at a time—both public and private.
 
