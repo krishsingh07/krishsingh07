@@ -6,6 +6,7 @@ I love building projects in **Python**, exploring **machine learning**, and crea
 If an idea pops into my head, chances are I’ll try to code it and ship it.
 
 My current tech stack includes **Python**, **HTML/CSS**, **JavaScript**, and I’m diving deep into frameworks like **Flask**, **Django**, and **React**.
+
 🛠️ Technologies I Use
 
 Languages: Python, JavaScript
