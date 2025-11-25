@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**krishsingh07/krishsingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Krish**, a B.Tech CSE student specializing in **AI & ML**.
 
-Here are some ideas to get you started:
+I love building projects in **Python**, exploring **machine learning**, and creating things for the **web**.
+If an idea pops into my head, chances are I’ll try to code it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack includes **Python**, **HTML/CSS**, **JavaScript**, and I’m diving deep into frameworks like **Flask**, **Django**, and **React**.
+I enjoy experimenting with ML models, data pipelines, and automation scripts.
+
+I’m still learning, improving, and building one project at a time—both public and private.
+
+If you want to follow along with my journey, feel free to check out my repos! 🚀
+
+### 🔹 Fun Facts
+
+* I’m currently exploring **AI/ML + Web Dev** combos
+* Python is my comfort language 🐍
+* I love building small tools that solve everyday problems
+* Hobbies: coding, anime, gym, learning new tech
