@@ -9,8 +9,11 @@ My current tech stack includes **Python**, **HTML/CSS**, **JavaScript**, and I�
 
 ### **🛠️ Technologies I Use**
 ⭕ **Languages:** Python, JavaScript
+
 ⭕ **Web:** HTML, CSS, Flask, Django
+
 ⭕ **ML:** NumPy, Pandas, Scikit-learn
+
 ⭕ **Tools:** Git, GitHub, VS Code
 
 If you want, I can format them with **indents**, **icons**, or **GitHub-style markdown sections**.
